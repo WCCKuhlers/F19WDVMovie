@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Hansens Favorite Movie</title>
+<meta charset="utf-8">
+<body bgcolor="#000000">
+<link rel="stylesheet" href="UniversalCSS.css">
+<header><h1><center>Top Gun Cast<center></h1></header>
+</head>
+
+
+<nav><center>
+	<b><h2>
+	<a href="HansenMovie.html">Home</a> &nbsp;
+	<a href="https://www.youtube.com/watch?v=ioWpe3hdFH0"target="_blank" 
+	  Style="text-decoration: none;">Trailer</a> &nbsp;
+	
+	</center>
+</nav>
+
+<body><br>
+ <center><img src="TopGun.jfif" height="300" width="400" alt="picture of Tom cruise in the movie"/></center>
+
+<main><br>
+<center>
+
+<h2>Characters</h2>
+<p><font size="+3">
+Maverick-Played by Tom Cruise<br>
+<img src="Maverick.jfif"  alt="picture of Tom cruise in the movie"/><br><br>
+Iceman-Played by Val Kilmer<br>
+<img src="Iceman.jfif"  alt="picture of Val Kilmer in the movie"/><br><br>
+Goose-Played by Anthony Edwards<br>
+<img src="Goose.jfif"  alt="picture of Anthony Edwards in the movie"/><br><br>
+Charlie-Played by Kelly McGillis<br>
+<img src="Charlie.jfif"  alt="picture of Kelly McGillis in the movie"/><br><br>
+</font></p></center>
+
+ 
+
+
+
+
+</main>
+</body>
+
+
+<footer><span class="bottom">
+	<small><i>Copyright &copy; 2019 Hansen <a href="mailto:andrewh1@wloo.org">E-mail</a></i></small></span>
+</footer>
+
+</html>
